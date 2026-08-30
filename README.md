@@ -126,7 +126,7 @@ This software is designed to consume optical datasets from the following officia
 
 **1. Clone the repository and navigate into it:**
 ```powershell
-git clone https://github.com/YOUR_USERNAME/sih2026-lunar-registration.git
+git clone https://github.com/ssjb-kakarot/sih2026-lunar-registration
 cd sih2026-lunar-registration
 ```
 
