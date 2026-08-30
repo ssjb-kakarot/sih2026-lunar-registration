@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+streamlit>=1.32.0
+streamlit-image-comparison>=0.0.4
+fpdf2>=2.7.9
+scikit-image>=0.22.0
+plotly>=5.19.0
